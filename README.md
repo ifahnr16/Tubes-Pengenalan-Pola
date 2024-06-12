@@ -6,12 +6,20 @@ Project ini bertujuan mengembangkan model regresi logistik untuk mempelajari ski
 
 # Anggota Tim
 Latifah Nurrohmah (21102124)
+
+
+
+
 Kelvin Fauzian Setiawan(21102127)
 # Kontribusi Anggota
-Latifah Nurrohmah
+ Latifah Nurrohmah
 
 - Menentukan ciri, algoritma dan topik yang akan digunakan
 - Mengerjakan program
+
+
+
+
 Kelvin Fauzian Setiawan
 - Mengumpulkan datset untuk kebutuhan program
 - Mengerjakan program
